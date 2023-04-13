@@ -13,10 +13,10 @@ root= tk.Tk()
 root.title("To Do List")
 
 #Add Menu
-menu = Menu(root)
+#menu = Menu(root)
 
-new_item = Menu(menu)
-menu.add_cascade(label="File")
+#new_item = Menu(menu)
+#menu.add_cascade(label="File")
 #new_item.add_command(label="View")
 #new_item.add_separator()
 
